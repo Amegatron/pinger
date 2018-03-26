@@ -1,4 +1,4 @@
-# Pinger
+# Pinger (IN PROGRESS)
 
 This program will ping specified hosts and notify you if some go down
 
